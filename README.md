@@ -17,4 +17,4 @@ If you want want place another order must click the reset button and contine to 
 
 
 and in contact info it shows my contact anfo and take any suggestions from users the user must must fill his/her last name  and email address that allows to contact the user
-the form will only take valid input i.e,for the first name and last name it take only characters not numbers and for mail it's validate the valid mail id.
+the form will only take valid input i.e,for the first name and last name it take only characters not numbers and for mail it's validate the valid mail id format.
