@@ -15,5 +15,5 @@ If you want want place another order must click the reset button and contine to 
 
 
 and in contact info it shows my contact anfo and take any suggestions from users the user must must fill his/her last name  and email address that allows to contact the user.
-my page is responsive.
+my page is responsive .
   
